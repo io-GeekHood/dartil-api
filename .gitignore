@@ -1,0 +1,5 @@
+__pycache__
+assets/__pycache__
+shared/__pycache__
+.idea
+.env
